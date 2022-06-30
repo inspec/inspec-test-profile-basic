@@ -1,6 +1,6 @@
 name: inspec-test-profile-basic
 title: InSpec Profile
 summary: An InSpec Compliance Profile that has one simple control.
-version: 0.1.0
+version: 0.2.0
 supports:
   platform: os
